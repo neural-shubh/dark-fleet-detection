@@ -156,7 +156,7 @@ This project accompanies the research paper:
 
 **"Monitoring Dark Fleets and Maritime Domain Awareness: A Multimodal CNN-LSTM-RNN Framework for the Indian Ocean Region"**
 
-> Available on Zenodo: [link coming soon]
+> Available on Zenodo: https://doi.org/10.5281/zenodo.21422532
 
 ---
 
