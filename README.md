@@ -209,4 +209,4 @@ MIT License — free to use for research and educational purposes.
 
 ---
 
-*Built as part of an undergraduate research project on maritime domain awareness and deep learning.*
+*Built as part of a research project on maritime domain awareness and deep learning.*
